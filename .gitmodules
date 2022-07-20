@@ -1,0 +1,3 @@
+[submodule "csi-spec"]
+	path = csi-spec
+	url = https://github.com/container-storage-interface/spec.git
